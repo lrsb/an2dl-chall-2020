@@ -72,7 +72,7 @@ Classes:
 Result: 0.6443 IoU on testset.
 
 ## Visual Question Answering
-[![Kaggle](https://img.shields.io/badge/open-Kaggle-4791CD.svg)](https://www.kaggle.com/c/ann-and-dl-vqa)
+[![Kaggle](https://img.shields.io/badge/open-Kaggle-4791CD.svg)](https://www.kaggle.com/c/anndl-2020-vqa)
 
 This competition is a visual question answering (VQA) problem on the proposed dataset. The dataset is composed by synthetic scenes, in which people and objects interact, and by corresponding questions, which are about the content of the images. Given an image and a question, the goal is to provide the correct answer. Answers belong to 3 possible categories: 'yes/no', 'counting' (from 0 to 5) and 'other' (e.g. colors, location, ecc.) answers.
 
